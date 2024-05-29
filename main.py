@@ -1,3 +1,4 @@
+#v2版本：检验git使用是否成功
 #采用深度卷积神经网络（VGG）在 Fashion-MNIST数据集上实施训练，并对其 epoch与收敛性间的关系进行分析。
 import numpy as np
 import pandas as pd
